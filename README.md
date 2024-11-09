@@ -6,11 +6,11 @@
 MedLink is an online pharmacy platform designed to streamline the prescription management process, providing features like secure prescription uploads, real-time drug availability, order management, and more.
 
 ## Team Members
-- *Yousef Selim* - Project Manager & Backend Developer
-- *Omar Mohamed* - Frontend Developer
+- *Yousef Selim* - ScrumMaster & Backend Developer
+- *Omar Mohamed* - Backend Developer
 - *Ahmed Mongy* - Backend Developer
-- *Moustafa El Tayar* - QA & Testing
-- *Mohammed Ahmed* - UI/UX Designer & Documentation
+- *Moustafa El Tayar* - UI/UX Designer & Documentation 
+- *Mohammed Ahmed* - Frontend & Database Developer
 
 ## Scrum Setup
 This project follows a Scrum methodology, with sprints planned for weekly iterations and team collaboration managed through GitHub Projects.
