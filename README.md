@@ -13,7 +13,7 @@ MedLink is an online pharmacy platform designed to streamline the prescription m
 - *Mohammed Ahmed* - Frontend & Database Developer
 
 ## Scrum Setup
-This project follows a Scrum methodology, with sprints planned for weekly iterations and team collaboration managed through GitHub Projects.
+This project follows a Scrum methodology, with sprints planned for weekly iterations and team collaboration managed through GitHub Projects [https://zewailcity-team-ri1fxyz1.atlassian.net/jira/software/projects/MLS/boards/2/backlog].
 
 ### Project Board
 - *Backlog*: Features and enhancements awaiting prioritization.
