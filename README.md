@@ -23,9 +23,9 @@ This project follows a Scrum methodology, with sprints planned for weekly iterat
 - *Done*: Approved and finalized tasks.
 
 ### How to Contribute
-- Clone the repository: git clone [repo URL]
+- Clone the repository: git clone [https://github.com/Ahmed-mongi/SWE-Project/blob/main/README.md]
 - Set up a new branch for your feature: git checkout -b feature-branch-name
 - Commit and push changes, then open a Pull Request (PR) to the main branch.
 
 ## Repository Link
-[MedLink Pharmacy Platform GitHub Repository](https://github.com/yourusername/MedLink-Pharmacy-Platform)
+[[MedLink Pharmacy Platform GitHub Repository](https://github.com/yourusername/MedLink-Pharmacy-Platform)](https://github.com/Ahmed-mongi/SWE-Project/blob/main/README.md)
